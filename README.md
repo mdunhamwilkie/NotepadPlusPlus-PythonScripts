@@ -20,7 +20,7 @@ The table of contents will be inserted between the two horizontal rules, removin
 
 ### How it works
 
-With the cursor positioned anywhere in the file, select menu item Plugins :arrow_right:  Python Script :arrow_right: Scripts :arrow_right: buildMarkdownTOC.
+With the cursor positioned anywhere in the file, select menu item <br> Plugins :arrow_right:  Python Script :arrow_right: Scripts :arrow_right: buildMarkdownTOC. <br>
 A pop-up will appear, asking you how many heading levels you want.  The default is 2 (heading levels 2 and 3).  Note that no table of contents lines are created for level 1 headings, as it is assumed that there is just one level 1 heading (i.e., the document title).
 
 ### Installation instructions
@@ -28,7 +28,7 @@ A pop-up will appear, asking you how many heading levels you want.  The default 
 1. Add the Python Script plugin
 	1. Select menu item Plugins :arrow_right: Plugins Admin...
 	1. Search for and install Python Script
-2. Copy the buildMarkdownTOC.py file to (on Windows 10)
+2. Copy the buildMarkdownTOC.py file to (on Windows 10) <br>
 `<C:\Users\<USERNAME>\AppData\Roaming\Notepad++\plugins\config\PythonScript\scripts\buildMarkdownTOC.py>`
 
 ### Sample markdown files
