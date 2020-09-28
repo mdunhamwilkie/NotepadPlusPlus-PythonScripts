@@ -11,6 +11,8 @@ The script prompts for the number of levels for the table of contents. This defa
 
    Author:   Mike DW
    Date:     2020-08-02
+   
+Modified 2020-09-28: Add a blank line between end of TOC and horizontal rule below it. Convert links in TOC to lower case. 
 """
 
 def main():
